@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "41e3341b-4edb-43d0-a723-0caaea9de0b6",
+            "Value": {
+                "id": "283fb6e5-0809-4f66-9047-a1869360e187",
+                "resourcePath": "objects\\oGun\\oGun.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "57ead846-155c-403e-8d48-75c191d8205e",
             "Value": {
                 "id": "0a88fb4d-8469-4057-aa2e-8a8573a57c08",
@@ -223,6 +231,14 @@
             }
         },
         {
+            "Key": "a5897cd0-d1e0-4e51-8f6b-1f1af4fdfb1e",
+            "Value": {
+                "id": "d9ba1a7f-8d5a-411a-ac09-732d97567d22",
+                "resourcePath": "sprites\\sBullet\\sBullet.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "32c15c5b-2448-427c-ba8e-bf45def90429",
@@ -255,6 +271,14 @@
             }
         },
         {
+            "Key": "c2df3e0a-9e51-490f-b24d-1c35e2336500",
+            "Value": {
+                "id": "a41e8d21-6121-4c23-8b21-f742b6d0fade",
+                "resourcePath": "objects\\oBullet\\oBullet.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c8ba39b0-1c3f-433c-a9ec-c14704dacda0",
             "Value": {
                 "id": "8b85955d-5cdd-46c7-981f-1d93194546cc",
@@ -276,6 +300,14 @@
                 "id": "425d0312-05c0-4ff5-91f5-549300ce2188",
                 "resourcePath": "options\\android\\options_android.yy",
                 "resourceType": "GMAndroidOptions"
+            }
+        },
+        {
+            "Key": "ec2256d3-e15a-48f0-ae20-948ea22a1cd8",
+            "Value": {
+                "id": "52a966ee-42ea-49e8-ad3e-d5a8b8698ca9",
+                "resourcePath": "sprites\\sGun\\sGun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
